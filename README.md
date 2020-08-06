@@ -5,5 +5,5 @@ Make sure to check out my [Hosted Demo](https://carter-face-detector-app.herokua
 Also see the [Frontend Github Page](https://github.com/Gcarter17/face-detector-frontend)
 
 ## Features
-* simple backend made with PostgreSQL
+* simple backend made with Node JS on PostgreSQL
 * register with email and password, login
